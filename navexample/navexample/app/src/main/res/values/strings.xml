@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmartCap</string>
+
+    <string name="title_section1">HeatMap</string>
+    <string name="title_section2">List Raw Data</string>
+    <string name="title_section3">Sensor Data</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Actions</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
